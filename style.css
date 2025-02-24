@@ -4,11 +4,10 @@
   box-sizing: border-box;
 }
 body{
-  background-image: url(bg\ BG2.png);
+  background-image: url(final\ wallp.png);
   background-size: cover;
   background-position: center;
   background-position: no-repeat;
-  
 }
 
 .header{
@@ -53,7 +52,7 @@ body{
   text-align: center;
   font-size: 30px;
   font-style: italic;
-  margin-top: 1000px;
+  margin-top: 1090px;
   color: azure;
 }
 
@@ -61,7 +60,7 @@ body{
 
 footer{
   background-color: rgb(4, 52, 86);
-  padding: 50px;
+  padding: 30px;
   text-align: center;
   position: fixed;
   width: 100%;

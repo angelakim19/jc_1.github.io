@@ -51,7 +51,7 @@ body{
   font-size: 70px;
   text-align: center;
   justify-content: center;
-  font-family: 'Moon Dance', cursive;
+  font-style: italic;
   margin-top: 80px;
   color: rgb(196, 188, 188);
   text-shadow: 0 0 30px rgb(150, 144, 255);
@@ -60,7 +60,7 @@ body{
 .description{
   display: flex;
   float: center;
-  font-size: 20px;
+  font-size: 17px;
   font-style: italic;
   text-align: center;
   justify-content: center;
@@ -68,7 +68,8 @@ body{
   margin-right: 60px;
   margin-top: 30px;
   max-width: 2000px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family:monospace;
+  color: antiquewhite;
 }
 
 .videosongs{
